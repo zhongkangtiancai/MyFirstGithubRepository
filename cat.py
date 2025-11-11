@@ -11,4 +11,4 @@ class Cat:
         print(f"{self.name} rolling")
 
     def happy(self,food):
-        print(f"give {food},i am happy!")
+        print(f"give {food},i happy!")
